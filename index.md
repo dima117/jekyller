@@ -45,6 +45,13 @@ style: |
 
 **other strong text**
 
+## **Header**
+
+**this slide is generated correctly**
+
+**other strong text**
+
+
 ## Shower Key Features
 
 1. Built on HTML, CSS and vanilla JavaScript
