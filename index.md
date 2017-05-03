@@ -39,6 +39,11 @@ style: |
 ![](pictures/cover.jpg)
 <!-- photo by John Carey, fiftyfootshadows.net -->
 
+## Header
+
+**strong text**
+
+**other strong text**
 
 ## Shower Key Features
 
